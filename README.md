@@ -1,7 +1,7 @@
 ## Olá!, me chamo Lucas Cícero
 
 - 💡 Apaixonado por tecnologia e inovações.
-- 🌱 Estudando React e Node.
+- 🌱 Estudando React e TypeScript.
 - 🎮 Adoro jogar Xadrez e tocar Violão nas horas vagas.
 
 ## Linguagens e Ferramentas
